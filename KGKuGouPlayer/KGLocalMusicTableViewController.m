@@ -13,7 +13,6 @@
 #import "KGMusicTableViewCell.h"
 #import "CoreDataMngTool.h"
 #import "AudioPlayerTool.h"
-#import "KGLocalMusicSaveListView.h"
 
 @interface KGLocalMusicTableViewController ()
 @property (strong, nonatomic) NSArray* musicList;
@@ -143,11 +142,6 @@
             break;
         case 1: //收藏列表
         {
-            //
-            
-            KGLocalMusicSaveListView  * localSaveListView = [KGLocalMusicSaveListView saveListView];
-            localSaveListView.delegate =self;
-            [localSaveListView showinView:self.view.window];
             
         }
             break;
@@ -160,16 +154,6 @@
             break;
     }
     
-}
--(void)saveListView:(KGLocalMusicSaveListView *)saveListView didSaveListNameConfirm:(NSString *)saveListName{
-    [saveListView hide];
-    
-    if (saveListName != nil) {
-        
-    }
-
-
-
 }
 
 -(CGFloat)tableView:(UITableView *)tableView heightForRowAtIndexPath:(NSIndexPath *)indexPath{

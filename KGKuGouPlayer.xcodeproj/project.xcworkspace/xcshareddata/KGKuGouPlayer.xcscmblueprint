@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "AAF2C259A1E501E36AC4A00640A4094AC417AB6E",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "AAF2C259A1E501E36AC4A00640A4094AC417AB6E" : 0,
+    "A6B334F0588896570DEEA1E5950F2DA3455BE8A4" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "29D2072C-5033-4A99-B3BC-217FEA20EA10",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "AAF2C259A1E501E36AC4A00640A4094AC417AB6E" : "thesis\/",
+    "A6B334F0588896570DEEA1E5950F2DA3455BE8A4" : "KGKuGouPlayer%EF%BC%88%E6%94%B6%E8%97%8F%E5%88%97%E8%A1%A81%EF%BC%89"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "KGKuGouPlayer",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "KGKuGouPlayer.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "ssh:\/\/github.com\/wtohgf2015\/KGKuGouPlayer.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "A6B334F0588896570DEEA1E5950F2DA3455BE8A4"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "github.com:18042676568\/thesis.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "AAF2C259A1E501E36AC4A00640A4094AC417AB6E"
+    }
+  ]
+}

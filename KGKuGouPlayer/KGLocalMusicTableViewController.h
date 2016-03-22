@@ -9,8 +9,7 @@
 #import <UIKit/UIKit.h>
 #import <AVFoundation/AVFoundation.h>
 #import "KGMusicTableViewCell.h"
-#import "KGLocalMusicSaveListView.h"
 
-@interface KGLocalMusicTableViewController : UITableViewController<AVAudioPlayerDelegate,KGMusicTableViewCellDelegate, UIActionSheetDelegate,KGLocalMusicSaveListViewDelegate>
+@interface KGLocalMusicTableViewController : UITableViewController<AVAudioPlayerDelegate,KGMusicTableViewCellDelegate, UIActionSheetDelegate>
 
 @end

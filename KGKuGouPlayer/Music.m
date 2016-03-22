@@ -11,10 +11,6 @@
 
 @implementation Music
 
-
-
-
-
 @dynamic name;
 @dynamic index;
 @dynamic singer;
